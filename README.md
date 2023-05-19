@@ -3,16 +3,21 @@
 |[<img src="https://github.com/youihyonKim.png" width="100px">](https://github.com/youihyonKim)|[<img src="https://github.com/bulmang.png" width="100px">](https://github.com/bulmang)|[<img src="https://github.com/seunghoria.png" width="100px">](https://github.com/seunghoria)|[<img src="https://github.com/jay1261.png" width="100px">](https://github.com/jay1261)|
 |:----:|:----:|:----:|:----:|
 |[Malty](https://github.com/youihyonKim)|[Bulmang](https://github.com/bulmang)|[Seez](https://github.com/seunghoria)|[Jay](https://github.com/jay1261)|
+<br>
+<br>
 
 
 ## 🗂 레포지토리 네이밍
+아래 규칙에 맞춰서 레포지토리 생성하셔서 작업하시면 됩니다!
 ```
 act1-jay
 act2-jay
 act1-malty
 ...
 ```
-이 틀에 맞춰서 자유롭게 레포지토리 생성하셔서 작업하시면 됩니다!
+<br>
+<br>
+
 
 ## 커밋 컨벤션
 + 커밋 규칙은 지키셔도 되고 자유롭게 하셔도 됩니다. 참고용으로 올려요.
